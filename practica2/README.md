@@ -30,5 +30,8 @@ At first, I only used PID control for the robot's angular velocity, i.e. to make
 
 I decided to apply PID to the linear velocity as well. Now, the robot reduces its speed when the error in the line position increases, meaning it goes slower in curves and faster in a straight line. This makes the robot much more stable when taking sharp turns. Thus, it can correct its direction without losing the line or making sudden movements.
 
+## Version Ackermann
+To make this version the only thing that was necessary was to modify the PID parameters.
+
 # Video
 [video](https://drive.google.com/file/d/1s10CYIOZQyCMoDkLsOZVXb_Nw3x3RDv7/view?usp=drive_link)
