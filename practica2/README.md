@@ -34,4 +34,4 @@ I decided to apply PID to the linear velocity as well. Now, the robot reduces it
 To make this version the only thing that was necessary was to modify the PID parameters.
 
 # Video
-[video](https://drive.google.com/file/d/1s10CYIOZQyCMoDkLsOZVXb_Nw3x3RDv7/view?usp=drive_link)
+[video](https://drive.google.com/file/d/1IrzWxycD7VqUsIdzumuLnZYj5xwMiQsz/view?usp=sharing)
