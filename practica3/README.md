@@ -38,6 +38,6 @@ After several attempts, I managed to reduce this oscillation by capping the maxi
 
 ## 📺 Watch the Project in Action
 
-Check out the **video demonstration** of the car navigating its environment with attractive and repulsive forces in real-time! [Click here to watch!]([#](https://drive.google.com/file/d/1tV-_FLCDW3SKL8Z6T9HBhU_FGKyM7qzK/view?usp=sharing))  
+Check out the **video demonstration** of the car navigating its environment with attractive and repulsive forces in real-time! [Click here to watch!](https://drive.google.com/file/d/1tV-_FLCDW3SKL8Z6T9HBhU_FGKyM7qzK/view?usp=sharing)
 
 ---
