@@ -24,4 +24,4 @@ At first, I structured all the code so that only the navigation part was in the 
 
 ## Video
 
-Here is a video showcasing the entire implementation (video)[].
+In order to show the videos, I must first explain that depending on when the cost map is shown, it loads faster or slower. In this [video](https://drive.google.com/file/d/1nIDVxXbFIuQkHJyNdc-cL3V94yYOf7Nd/view?usp=sharing) you can see how the cost and expansion map is shown each time it is modified and how it takes 1 minute to do so, while in [this](https://drive.google.com/file/d/1nB4HAbwWAI69XId43ECTHDNhyL2JXjYD/view?usp=sharing) one it takes less since it is only shown once both are loaded. This happens because loading the map places a lot of load on the system.
