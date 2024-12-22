@@ -51,4 +51,4 @@ Ajustando cuidadosamente el número de partículas, rayos y ruidos, he logrado u
 
 ## 9. Video de Ejecución
 He subido un breve vídeo de demostración en el siguiente enlace:  
-[Demostración]([https://drive.google.com/file/d/1s10CYIOZQyCMoDkLsOZVXb_Nw3x3RDv7/view?usp=sharing](https://drive.google.com/file/d/1FLh2DZR5_ZVZDfKdsCDjtEWzyXb5TqS9/view?usp=sharing))
+[Demostración](https://drive.google.com/file/d/1s10CYIOZQyCMoDkLsOZVXb_Nw3x3RDv7/view?usp=sharing](https://drive.google.com/file/d/1FLh2DZR5_ZVZDfKdsCDjtEWzyXb5TqS9/view?usp=sharing))
